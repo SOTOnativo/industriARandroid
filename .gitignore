@@ -2,3 +2,8 @@ IndustriAR/Library/
 IndustriAR/Temp/
 *.apk
 *.obj
+IndustriAR/QCAR/somedata16
+IndustriAR/Assets/Editor/Vuforia/
+IndustriAR/Assets/Vuforia/
+IndustriAR/Assets/StreamingAssets/Vuforia/
+IndustriAR/Assets/Vuforia.meta
