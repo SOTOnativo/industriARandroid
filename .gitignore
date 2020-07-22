@@ -7,3 +7,7 @@ IndustriAR/Assets/Editor/Vuforia/
 IndustriAR/Assets/Vuforia/
 IndustriAR/Assets/StreamingAssets/Vuforia/
 IndustriAR/Assets/Vuforia.meta
+IndustriAR/VuforiaEditorScripts.csproj
+IndustriAR/VuforiaScripts.csproj
+*.cache
+IndustriAR/IndustriAR.sln
