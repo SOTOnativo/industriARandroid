@@ -11,3 +11,5 @@ IndustriAR/VuforiaEditorScripts.csproj
 IndustriAR/VuforiaScripts.csproj
 *.cache
 IndustriAR/IndustriAR.sln
+IndustriAR/Assembly-CSharp.csproj
+IndustriAR/.vs/IndustriAR/v16/.suo
